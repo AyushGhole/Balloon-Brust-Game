@@ -93,3 +93,15 @@ o Balloons spawn at nozzle location, inflate properly, and float at random angle
 3.Add level-based difficulty with faster-moving balloons.
 <br>
 4. Mobile touch support for multi-balloon inflations.<br>
+<h3>Deployed Project Link : </h3>
+<br>
+<br>
+  <a href="https://balloon-brust-game.vercel.app/">
+         <img src="https://img.shields.io/badge/-Website_Link-blue?style=flat-square" height="30px" width="90px" >
+   </a>
+   <br>
+   <h4>Demo Link : </h4> 
+   <br>
+    <a href="https://youtu.be/OcijcrrXJsU">
+         <img src="https://img.shields.io/badge/-Demo_Link-blue?style=flat-square" height="30px" width="90px" >
+   </a> 
