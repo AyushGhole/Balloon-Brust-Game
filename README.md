@@ -49,7 +49,7 @@ balloon-game/<br>
 └─ README.md<br>
 
 <h2>🚀 Installation & Setup </h2> 
-1. Clone the repository: <br> 
+1. Clone the repository: <b>https://github.com/AyushGhole/Balloon-Brust-Game.git</b>  <br> 
 2. Install dependencies:<br>
     - npm install <br>
 3. Start the development server: <br> 
