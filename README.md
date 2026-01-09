@@ -96,25 +96,15 @@ o Balloons spawn at nozzle location, inflate properly, and float at random angle
 
 <h2>Skills :</h2>
 <span><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="30px" width="100px"></span>
-
 <span><img src="https://img.shields.io/badge/-Javascript-ff6e6e?style=flat-square" height="30px" width="90px"></span>
-
 <span><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" height="30px" width="90px"></span>
-
 <span><img src="https://img.shields.io/badge/React.js-9d57b3?style=flat-square" height="30px" width="120px"></span>
-
 <span><img src="https://img.shields.io/badge/Tailwind_CSS-e164e3?style=flat-square&logo=tailwindcss&logoColor=white" height="30px" width="120px"></span>
-
 <span><img src="https://img.shields.io/badge/-MATERIAL_UI-ff6e6e?style=flat-square" height="30px" width="90px"></span>
-
 <span><img src="https://img.shields.io/badge/-Responsive%20Design-yellow?style=flat-square" height="30px" width="120px"></span>
-
 <span><img src="https://img.shields.io/badge/-Git-f23400?style=flat-square" height="30px" width="80px"></span>
-
 <span><img src="https://img.shields.io/badge/-Github-ff6e6e?style=flat-square" height="30px" width="90px"></span>
-
 <span><img src="https://img.shields.io/badge/-Performance_Optimization-bb1ec9?style=flat-square" height="30px" width="140px"></span>
-
 <span><img src="https://img.shields.io/badge/-ProblemSolving-90c953?style=flat-square" height="30px" width="120px"></span>
 
 
