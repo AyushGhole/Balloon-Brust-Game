@@ -69,11 +69,9 @@ o Use the back button (top-left) to go back to the main screen.
 
 <h2>⚡ Customization </h2>
 
-1. Balloon speed & direction – Adjust dx and dy values in Balloon.jsx for different movement patterns.
-<br>
-2. Burst particles – Modify fire-spark CSS animation to tweak firecracker effect.
-<br>
-3. Audio – Replace pop.mp3 in /assets with your own sound. <br>
+1. Balloon speed & direction – Adjust dx and dy values in Balloon.jsx for different movement patterns.<br>
+2. Burst particles – Modify fire-spark CSS animation to tweak firecracker effect.<br>
+3. Audio – Replace pop.mp3 in /assets with your own sound. <br> <br>
 <h2>🔧 Notes / Fixes Implemented</h2>
 
 o Fixed burst sound delay – Plays immediately when balloon bursts.
