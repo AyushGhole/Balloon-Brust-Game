@@ -68,7 +68,7 @@ o Multiple balloons can be spawned and managed at once.
 o Use the back button (top-left) to go back to the main screen.
 <br>
 
-<h2>⚡ Customization </h2>h2>
+<h2>⚡ Customization </h2>
 
 1. Balloon speed & direction – Adjust dx and dy values in Balloon.jsx for different movement patterns.
 <br>
