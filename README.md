@@ -31,7 +31,7 @@ o JavaScript – Game logic, animation, and interactivity.
 <br>
 o CSS Animations – Firecracker particle effects for balloon bursts.
 <br>
-o Audio API – Immediate pop sound on balloon burst.<br> 
+o Audio API – Immediate pop sound on balloon burst.<br> <br>
 
 balloon-game/<br>
 ├─ public/ <br>
@@ -55,7 +55,6 @@ balloon-game/<br>
 3. Start the development server: <br> 
     - npm start  <br> 
 4. Open your browser at http://localhost:5173 to play the game. <br>
-
 <h2>🎨 How to Play </h2>
 o Click and hold the pump handle to inflate a balloon.
 <br>
